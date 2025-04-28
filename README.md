@@ -1,8 +1,3 @@
-Perfect, you want a **full `README.md` file** ready for GitHub repo — just for the **EIC Insurance Dashboard**.
-
-Here’s exactly what you can copy-paste into your GitHub repo:
-
----
 
 # 📊 EIC Insurance Dashboard
 
@@ -43,13 +38,6 @@ Built using **Power BI Desktop** and **Excel** as the data source, this dashboar
 - Excel (Data Source)
 - DAX (for KPIs and calculations)
 
-## Folder Structure
-
-```
-/eic-insurance-dashboard/
-    - EIC_Insurance_Dashboard.pbix
-    - README.md
-```
 
 ## Screenshots (Optional)
 
