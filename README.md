@@ -41,7 +41,11 @@ Built using **Power BI Desktop** and **Excel** as the data source, this dashboar
 
 ## Screenshots (Optional)
 
-_Add screenshots here if you want to show visuals of your dashboard._
+_![image](https://github.com/user-attachments/assets/63d7baa1-1a45-4519-8438-9bc37fc9e48d)
+
+![image](https://github.com/user-attachments/assets/2e053c44-1951-4c04-97d8-6867d1dc7566)
+
+
 
 ---
 
@@ -52,13 +56,3 @@ Connect with me for more projects like this!
 
 ---
 
-### ✨ Tip: 
-If you want, I can also show you how to add **badges** (like Power BI | Excel | Data Analysis) to make your repo look even cooler! Would you like that too? 🚀🎯
-
----
-  
-Would you also like a short "description" text for your GitHub repo settings? (the one that appears right below the repo name?)  
-Example:  
-> "Interactive Power BI dashboard analyzing premium, claims, and customer trends for EIC Insurance Company." 
-
-Want me to give that too? 🎯
