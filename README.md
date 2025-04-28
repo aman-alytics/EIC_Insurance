@@ -26,12 +26,6 @@ Built using **Power BI Desktop** and **Excel** as the data source, this dashboar
 - **Claims by Gender** – Donut Chart (Insight: "Sex 0" shows higher claims per policy)
 - **Usage Analysis** – Matrix showing usage across years and total percentages
 
-## How to Use
-
-- Download the `.pbix` file from this repository.
-- Open the file using **Power BI Desktop**.
-- Explore different pages, slicers, and charts to dive into the insights.
-
 ## Technologies Used
 
 - Power BI Desktop
